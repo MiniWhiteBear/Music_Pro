@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="800,600"/>
+<component size="720,1280">
+  <displayList>
+    <component id="n0_ga6f" name="btnBegin" src="ga6f2" fileName="btn_Begin.xml" xy="197,908"/>
+  </displayList>
+</component>

@@ -2,6 +2,8 @@
 <packageDescription id="qjsi7fg2">
   <resources>
     <component id="uzbw0" name="IndexView.xml" path="/" exported="true"/>
+    <image id="ga6f1" name="001.png" path="/res/" scale="9grid" scale9grid="20,20,40,40"/>
+    <component id="ga6f2" name="btn_Begin.xml" path="/"/>
   </resources>
   <publish name=""/>
 </packageDescription>
